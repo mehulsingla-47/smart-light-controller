@@ -1,7 +1,6 @@
 # Smart Street Lighting and Dual-Zone Motion Activation System (Expert)
 
 **Author:** Mehul Singla
-**Roll No.:** 1025030078
 **Branch:** COE
 **Institute:** Thapar Institute of Engineering and Technology, Patiala
 
