@@ -1,7 +1,6 @@
 # Automated Solar Tracking and Light-Responsive Servo Actuation System (Intermediate)
 
 **Author:** Mehul Singla
-**Roll No.:** 1025030078
 **Branch:** COE
 **Institute:** Thapar Institute of Engineering and Technology, Patiala
 
